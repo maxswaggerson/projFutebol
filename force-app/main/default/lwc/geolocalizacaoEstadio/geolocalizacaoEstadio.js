@@ -1,4 +1,4 @@
-import { LightningElement } from 'lwc';
+import { LightningElement, api, wire } from 'lwc';
 import {getRecord, getFieldValue} from 'lightning/uiRecordApi';
 
 import LATITUDE from '@salesforce/schema/Estadio__c.Latitude__c';
