@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Estádio</label>
     <nameField>
-        <label>Estádio Name</label>
+        <label>Nome</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>

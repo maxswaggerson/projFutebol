@@ -128,11 +128,14 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <type>Default</type>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Time_Record_Page</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -155,7 +158,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Time</label>
     <nameField>
-        <label>Time Name</label>
+        <label>Nome Completo</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>

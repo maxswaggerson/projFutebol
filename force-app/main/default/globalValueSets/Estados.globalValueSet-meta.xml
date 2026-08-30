@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Bahia</fullName>
+        <default>false</default>
+        <label>Bahia</label>
+    </customValue>
+    <customValue>
+        <fullName>Minas Gerais</fullName>
+        <default>false</default>
+        <label>Minas Gerais</label>
+    </customValue>
+    <customValue>
+        <fullName>Paraná</fullName>
+        <default>false</default>
+        <label>Paraná</label>
+    </customValue>
+    <customValue>
+        <fullName>Pará</fullName>
+        <default>false</default>
+        <label>Pará</label>
+    </customValue>
+    <customValue>
+        <fullName>Rio Grande do Sul</fullName>
+        <default>false</default>
+        <label>Rio Grande do Sul</label>
+    </customValue>
+    <customValue>
+        <fullName>Rio de Janeiro</fullName>
+        <default>false</default>
+        <label>Rio de Janeiro</label>
+    </customValue>
+    <customValue>
+        <fullName>Santa Catarina</fullName>
+        <default>false</default>
+        <label>Santa Catarina</label>
+    </customValue>
+    <customValue>
+        <fullName>São Paulo</fullName>
+        <default>false</default>
+        <label>São Paulo</label>
+    </customValue>
+    <customValue>
+        <fullName>Buenos Aires</fullName>
+        <default>false</default>
+        <label>Buenos Aires</label>
+    </customValue>
+    <customValue>
+        <fullName>Santa Fé</fullName>
+        <default>false</default>
+        <label>Santa Fé</label>
+    </customValue>
+    <customValue>
+        <fullName>Córdoba</fullName>
+        <default>false</default>
+        <label>Córdoba</label>
+    </customValue>
+    <customValue>
+        <fullName>Mendoza</fullName>
+        <default>false</default>
+        <label>Mendoza</label>
+    </customValue>
+    <customValue>
+        <fullName>Tucúman</fullName>
+        <default>false</default>
+        <label>Tucúman</label>
+    </customValue>
+    <customValue>
+        <fullName>Santiago del Estero</fullName>
+        <default>false</default>
+        <label>Santiago del Estero</label>
+    </customValue>
+    <customValue>
+        <fullName>Lisboa</fullName>
+        <default>false</default>
+        <label>Lisboa</label>
+    </customValue>
+    <customValue>
+        <fullName>Porto</fullName>
+        <default>false</default>
+        <label>Porto</label>
+    </customValue>
+    <customValue>
+        <fullName>Braga</fullName>
+        <default>false</default>
+        <label>Braga</label>
+    </customValue>
+    <customValue>
+        <fullName>Aveiro</fullName>
+        <default>false</default>
+        <label>Aveiro</label>
+    </customValue>
+    <customValue>
+        <fullName>Madeira</fullName>
+        <default>false</default>
+        <label>Madeira</label>
+    </customValue>
+    <customValue>
+        <fullName>Açores</fullName>
+        <default>false</default>
+        <label>Açores</label>
+    </customValue>
+    <customValue>
+        <fullName>Viseu</fullName>
+        <default>false</default>
+        <label>Viseu</label>
+    </customValue>
+    <customValue>
+        <fullName>Comunidade de Madrid</fullName>
+        <default>false</default>
+        <label>Comunidade de Madrid</label>
+    </customValue>
+    <customValue>
+        <fullName>Catalunha</fullName>
+        <default>false</default>
+        <label>Catalunha</label>
+    </customValue>
+    <customValue>
+        <fullName>Comunidade Valenciana</fullName>
+        <default>false</default>
+        <label>Comunidade Valenciana</label>
+    </customValue>
+    <customValue>
+        <fullName>Andaluzia</fullName>
+        <default>false</default>
+        <label>Andaluzia</label>
+    </customValue>
+    <customValue>
+        <fullName>País Basco</fullName>
+        <default>false</default>
+        <label>País Basco</label>
+    </customValue>
+    <customValue>
+        <fullName>Galiza</fullName>
+        <default>false</default>
+        <label>Galiza</label>
+    </customValue>
+    <customValue>
+        <fullName>Cantábria</fullName>
+        <default>false</default>
+        <label>Cantábria</label>
+    </customValue>
+    <customValue>
+        <fullName>Navarra</fullName>
+        <default>false</default>
+        <label>Navarra</label>
+    </customValue>
+    <customValue>
+        <fullName>île-de-France</fullName>
+        <default>false</default>
+        <label>île-de-France</label>
+    </customValue>
+    <customValue>
+        <fullName>Provence-Alpes-Côte d&apos;Azur</fullName>
+        <default>false</default>
+        <label>Provence-Alpes-Côte d&apos;Azur</label>
+    </customValue>
+    <customValue>
+        <fullName>Auvergne-Rhône-Alpes</fullName>
+        <default>false</default>
+        <label>Auvergne-Rhône-Alpes</label>
+    </customValue>
+    <customValue>
+        <fullName>Hauts-de-France</fullName>
+        <default>false</default>
+        <label>Hauts-de-France</label>
+    </customValue>
+    <customValue>
+        <fullName>Monaco</fullName>
+        <default>false</default>
+        <label>Monaco</label>
+    </customValue>
+    <customValue>
+        <fullName>Bretagne</fullName>
+        <default>false</default>
+        <label>Bretagne</label>
+    </customValue>
+    <customValue>
+        <fullName>Grand Est</fullName>
+        <default>false</default>
+        <label>Grand Est</label>
+    </customValue>
+    <customValue>
+        <fullName>Occitanie</fullName>
+        <default>false</default>
+        <label>Occitanie</label>
+    </customValue>
+    <customValue>
+        <fullName>Pays de la Loire</fullName>
+        <default>false</default>
+        <label>Pays de la Loire</label>
+    </customValue>
+    <customValue>
+        <fullName>Bourgogne-Franche-Comté</fullName>
+        <default>false</default>
+        <label>Bourgogne-Franche-Comté</label>
+    </customValue>
+    <customValue>
+        <fullName>Normandie</fullName>
+        <default>false</default>
+        <label>Normandie</label>
+    </customValue>
+    <customValue>
+        <fullName>Baviera</fullName>
+        <default>false</default>
+        <label>Baviera</label>
+    </customValue>
+    <customValue>
+        <fullName>Renânia do Norte-Vestfália</fullName>
+        <default>false</default>
+        <label>Renânia do Norte-Vestfália</label>
+    </customValue>
+    <customValue>
+        <fullName>Baden-Württemberg</fullName>
+        <default>false</default>
+        <label>Baden-Württemberg</label>
+    </customValue>
+    <customValue>
+        <fullName>Saxônia</fullName>
+        <default>false</default>
+        <label>Saxônia</label>
+    </customValue>
+    <customValue>
+        <fullName>Hesse</fullName>
+        <default>false</default>
+        <label>Hesse</label>
+    </customValue>
+    <customValue>
+        <fullName>Berlim</fullName>
+        <default>false</default>
+        <label>Berlim</label>
+    </customValue>
+    <customValue>
+        <fullName>Bremen</fullName>
+        <default>false</default>
+        <label>Bremen</label>
+    </customValue>
+    <customValue>
+        <fullName>Hamburgo</fullName>
+        <default>false</default>
+        <label>Hamburgo</label>
+    </customValue>
+    <customValue>
+        <fullName>Saarlândia</fullName>
+        <default>false</default>
+        <label>Saarlândia</label>
+    </customValue>
+    <customValue>
+        <fullName>Renânia-Palatinado</fullName>
+        <default>false</default>
+        <label>Renânia-Palatinado</label>
+    </customValue>
+    <customValue>
+        <fullName>Grande Londres</fullName>
+        <default>false</default>
+        <label>Grande Londres</label>
+    </customValue>
+    <customValue>
+        <fullName>Noroeste</fullName>
+        <default>false</default>
+        <label>Noroeste</label>
+    </customValue>
+    <customValue>
+        <fullName>Nordeste</fullName>
+        <default>false</default>
+        <label>Nordeste</label>
+    </customValue>
+    <customValue>
+        <fullName>Yorkshire e Humber</fullName>
+        <default>false</default>
+        <label>Yorkshire e Humber</label>
+    </customValue>
+    <customValue>
+        <fullName>Midlands Ocidentais</fullName>
+        <default>false</default>
+        <label>Midlands Ocidentais</label>
+    </customValue>
+    <customValue>
+        <fullName>Midlands Orientais</fullName>
+        <default>false</default>
+        <label>Midlands Orientais</label>
+    </customValue>
+    <customValue>
+        <fullName>Leste</fullName>
+        <default>false</default>
+        <label>Leste</label>
+    </customValue>
+    <customValue>
+        <fullName>Sudeste</fullName>
+        <default>false</default>
+        <label>Sudeste</label>
+    </customValue>
+    <customValue>
+        <fullName>Sudoeste</fullName>
+        <default>false</default>
+        <label>Sudoeste</label>
+    </customValue>
+    <customValue>
+        <fullName>Lombardia</fullName>
+        <default>false</default>
+        <label>Lombardia</label>
+    </customValue>
+    <customValue>
+        <fullName>Piemonte</fullName>
+        <default>false</default>
+        <label>Piemonte</label>
+    </customValue>
+    <customValue>
+        <fullName>Lácio</fullName>
+        <default>false</default>
+        <label>Lácio</label>
+    </customValue>
+    <customValue>
+        <fullName>Emília-Romanha</fullName>
+        <default>false</default>
+        <label>Emília-Romanha</label>
+    </customValue>
+    <customValue>
+        <fullName>Vêneto</fullName>
+        <default>false</default>
+        <label>Vêneto</label>
+    </customValue>
+    <customValue>
+        <fullName>Toscana</fullName>
+        <default>false</default>
+        <label>Toscana</label>
+    </customValue>
+    <customValue>
+        <fullName>Campânia</fullName>
+        <default>false</default>
+        <label>Campânia</label>
+    </customValue>
+    <customValue>
+        <fullName>Ligúria</fullName>
+        <default>false</default>
+        <label>Ligúria</label>
+    </customValue>
+    <customValue>
+        <fullName>Friul-Veneza Júlia</fullName>
+        <default>false</default>
+        <label>Friul-Veneza Júlia</label>
+    </customValue>
+    <customValue>
+        <fullName>Apúlia</fullName>
+        <default>false</default>
+        <label>Apúlia</label>
+    </customValue>
+    <customValue>
+        <fullName>Sardenha</fullName>
+        <default>false</default>
+        <label>Sardenha</label>
+    </customValue>
+    <customValue>
+        <fullName>Istambul</fullName>
+        <default>false</default>
+        <label>Istambul</label>
+    </customValue>
+    <customValue>
+        <fullName>Adana</fullName>
+        <default>false</default>
+        <label>Adana</label>
+    </customValue>
+    <customValue>
+        <fullName>Antália</fullName>
+        <default>false</default>
+        <label>Antália</label>
+    </customValue>
+    <customValue>
+        <fullName>Esmirna</fullName>
+        <default>false</default>
+        <label>Esmirna</label>
+    </customValue>
+    <customValue>
+        <fullName>Gaziantep</fullName>
+        <default>false</default>
+        <label>Gaziantep</label>
+    </customValue>
+    <customValue>
+        <fullName>Hatay</fullName>
+        <default>false</default>
+        <label>Hatay</label>
+    </customValue>
+    <customValue>
+        <fullName>Kayseri</fullName>
+        <default>false</default>
+        <label>Kayseri</label>
+    </customValue>
+    <customValue>
+        <fullName>Konyaspor</fullName>
+        <default>false</default>
+        <label>Konyaspor</label>
+    </customValue>
+    <customValue>
+        <fullName>Muğla</fullName>
+        <default>false</default>
+        <label>Muğla</label>
+    </customValue>
+    <customValue>
+        <fullName>Rize</fullName>
+        <default>false</default>
+        <label>Rize</label>
+    </customValue>
+    <customValue>
+        <fullName>Samsun</fullName>
+        <default>false</default>
+        <label>Samsun</label>
+    </customValue>
+    <customValue>
+        <fullName>Sivas</fullName>
+        <default>false</default>
+        <label>Sivas</label>
+    </customValue>
+    <customValue>
+        <fullName>Trebisonda</fullName>
+        <default>false</default>
+        <label>Trebisonda</label>
+    </customValue>
+    <customValue>
+        <fullName>Casablanca-Settat</fullName>
+        <default>false</default>
+        <label>Casablanca-Settat</label>
+    </customValue>
+    <customValue>
+        <fullName>Rabat-Salé-Kénitra</fullName>
+        <default>false</default>
+        <label>Rabat-Salé-Kénitra</label>
+    </customValue>
+    <customValue>
+        <fullName>Tânger-Tetuão-Al Hoceima</fullName>
+        <default>false</default>
+        <label>Tânger-Tetuão-Al Hoceima</label>
+    </customValue>
+    <customValue>
+        <fullName>Fez-Meknès</fullName>
+        <default>false</default>
+        <label>Fez-Meknès</label>
+    </customValue>
+    <customValue>
+        <fullName>Marraquexe-Safi</fullName>
+        <default>false</default>
+        <label>Marraquexe-Safi</label>
+    </customValue>
+    <customValue>
+        <fullName>Região Oriental</fullName>
+        <default>false</default>
+        <label>Região Oriental</label>
+    </customValue>
+    <customValue>
+        <fullName>Souss-Massa</fullName>
+        <default>false</default>
+        <label>Souss-Massa</label>
+    </customValue>
+    <customValue>
+        <fullName>Cairo</fullName>
+        <default>false</default>
+        <label>Cairo</label>
+    </customValue>
+    <customValue>
+        <fullName>Alexandria</fullName>
+        <default>false</default>
+        <label>Alexandria</label>
+    </customValue>
+    <customValue>
+        <fullName>Giza</fullName>
+        <default>false</default>
+        <label>Giza</label>
+    </customValue>
+    <customValue>
+        <fullName>Canal de Suez</fullName>
+        <default>false</default>
+        <label>Canal de Suez</label>
+    </customValue>
+    <customValue>
+        <fullName>Gharbia</fullName>
+        <default>false</default>
+        <label>Gharbia</label>
+    </customValue>
+    <customValue>
+        <fullName>Mar Vermelho</fullName>
+        <default>false</default>
+        <label>Mar Vermelho</label>
+    </customValue>
+    <customValue>
+        <fullName>Assiut</fullName>
+        <default>false</default>
+        <label>Assiut</label>
+    </customValue>
+    <masterLabel>Estados</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
